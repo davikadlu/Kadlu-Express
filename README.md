@@ -4,7 +4,6 @@
 <p>↓ Este projeto tem como objetivo ↓ </p>
 
 > » Aumentar minhas habilidades nas Tecnologias MEVN. <br/>
-> » Ter um Portófio. 
 
 ## Ferramentas
 <img alt="JavaScript" src="https://skillicons.dev/icons?i=html,js,mongodb,express,vue,node">
