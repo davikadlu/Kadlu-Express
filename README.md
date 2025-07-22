@@ -7,14 +7,9 @@
 > » Ter um Portófio. 
 
 ## Ferramentas
-
+<img alt="JavaScript" src="https://skillicons.dev/icons?i=html,js,mongodb,express,vue,node">
 
 Como instalar e rodar
 
-Exemplos de uso
-
-Como contribuir (se for o caso)
-
-Licença do projeto
-
 Contato / links úteis
+
