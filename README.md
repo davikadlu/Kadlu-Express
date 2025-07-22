@@ -2,10 +2,12 @@
 
 <h2>Sobre o Projeto</h2>
 <p>↓ Este projeto tem como objetivo ↓ </p>
-> Treinar minha habilidades em [Ferramentas](#ferramentas)
-Uma descrição clara e curta do projeto
+
+> » Aumentar minhas habilidades nas Tecnologias MEVN. <br/>
+> » Ter um Portófio. 
 
 ## Ferramentas
+
 
 Como instalar e rodar
 
