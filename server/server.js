@@ -33,6 +33,10 @@ app.route("/home")
                 slug
             })
 
+            if (title == '' | title == undefined | title == " ") {
+                console.log("Por gentileza, arrumar essa merda")
+            }
+
             posts.save().then(() => {
                 res.json({slug, title, content})
             }).catch(() => {
