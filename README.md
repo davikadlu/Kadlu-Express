@@ -5,6 +5,9 @@
 
 > » Aumentar minhas habilidades nas Tecnologias MEVN. <br/>
 
+<img width="1920" height="1080" alt="Captura de tela de 2025-07-25 21-10-51" src="https://github.com/user-attachments/assets/3cb0e5c5-114e-4b1a-b35b-a8209b399dc7" />
+
+
 ## Ferramentas
 <img alt="JavaScript" src="https://skillicons.dev/icons?i=html,js,mongodb,express,vue,node">
 
