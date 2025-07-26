@@ -4,12 +4,11 @@
 <p>↓ Este projeto tem como objetivo ↓ </p>
 
 > » Aumentar minhas habilidades nas Tecnologias MEVN. <br/>
-
 <img width="1920" height="1080" alt="Captura de tela de 2025-07-25 21-10-51" src="https://github.com/user-attachments/assets/3cb0e5c5-114e-4b1a-b35b-a8209b399dc7" />
 
 
 ## Ferramentas
-<img alt="JavaScript" src="https://skillicons.dev/icons?i=html,js,mongodb,express,vue,node">
+<img height="42" alt="image" src="https://github.com/user-attachments/assets/7d71d31b-fb2b-4c54-8625-ceaf4c4e47d6" />  <img alt="JavaScript" src="https://skillicons.dev/icons?i=html,js,mongodb,express,vue,node">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davikadlu&layout=donut&theme=vue-dark&border_color=#34eb43)
 
